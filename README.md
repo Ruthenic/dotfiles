@@ -5,7 +5,7 @@ my dotfiles, managed using `yadm`.
 1. `zsh` setup, using `zim`  
 2. `fish` setup (warning: probably unmaintained excluding serious issues as i have switched to zsh)  
 
-### screenshots
+#### screenshots
 ZSH:
 ![Picture of ZSH config](images/zsh.png)
 

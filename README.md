@@ -5,7 +5,18 @@ my dotfiles, managed using `yadm`.
 1. `zsh` setup, using `zim`  
 2. `fish` setup (warning: probably unmaintained excluding serious issues as i have switched to zsh)  
 
+### screenshots
+ZSH:
+![Picture of ZSH config](images/zsh.png)
+
+Fish:
+![Picture of ZSH config](images/fish.png)
+
 #### requirements
+requirements for all:
+`zoxide`
+`pnpm` (optional if you remove the aliases)
+
 zsh requirements:
 - `zsh` (obviously)
 - `zim` (*install this before the dotfiles so the defaults can be overwritten*)

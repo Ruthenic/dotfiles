@@ -4,6 +4,8 @@ my dotfiles, managed using `yadm`.
 #### contents
 1. `zsh` setup, using `zim`  
 2. `fish` setup (warning: probably unmaintained excluding serious issues as i have switched to zsh)  
+misc other configs:
+3. `bash` setup, with `oh-my-bash`
 
 #### screenshots
 ZSH:

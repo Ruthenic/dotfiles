@@ -9,6 +9,7 @@ my dotfiles, managed using `yadm`.
 zsh requirements:
 - `zsh` (obviously)
 - `zim` (*install this before the dotfiles so the defaults can be overwritten*)
+
 fish requirements:
 - `fish` (obviously)
 - `fisher` (https://github.com/jorgebucaran/fisher)
@@ -17,10 +18,10 @@ fish requirements:
 all:
 1. download and install yadm (other dotfile managers may work, but are not supported)
 2. clone this repo with yadm, and resolve conflicts
-	`yadm clone https://github.com/Ruthenic/dotfiles`
-zsh:
-3. run `zimfw install`.
-fish:
-TODO
+	`yadm clone https://github.com/Ruthenic/dotfiles`  
+zsh:  
+3. run `zimfw install`.  
+fish:  
+TODO  
 
 you are done.

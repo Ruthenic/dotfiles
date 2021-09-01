@@ -17,10 +17,12 @@ fish requirements:
 #### installation
 all:
 1. download and install yadm (other dotfile managers may work, but are not supported)
-2. clone this repo with yadm, and resolve conflicts
+2. clone this repo with yadm, and resolve conflicts  
 	`yadm clone https://github.com/Ruthenic/dotfiles`  
+
 zsh:  
 3. run `zimfw install`.  
+
 fish:  
 TODO  
 

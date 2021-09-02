@@ -56,7 +56,7 @@ export NVM_DIR="~/.nvm"
 source ~/.nvm/nvm.sh
 
 #Setup $PATH
-PATH="$PATH:/home/ruthenic/.local/bin"
+PATH="$PATH:/home/ruthenic/.local/bin:/usr/share/code"
 
 #Make ZSH highlighting colors more Fish-like
 ZSH_HIGHLIGHT_STYLES[suffix-alias]=fg=blue,underline

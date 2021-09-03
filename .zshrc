@@ -52,8 +52,8 @@ compinit
 alias cd="z"
 
 #Setup NVM (Void only distributes 14.x, while upstream is on v16. For some reason.)
-export NVM_DIR="~/.nvm"
-source ~/.nvm/nvm.sh
+#export NVM_DIR="~/.nvm"
+#source ~/.nvm/nvm.sh
 
 #Setup $PATH
 PATH="$PATH:/home/ruthenic/.local/bin:/usr/share/code"
@@ -66,6 +66,7 @@ ZSH_HIGHLIGHT_STYLES[arg0]=fg=blue
 #Set up general-use aliases
 alias npm="pnpm"
 alias xbps-search="xbps-query -Rs"
+alias cat="bat"
 function fullpath() {
 	local fptmp=${PWD}
 	for x ($*); do local fptmp="$fptmp/$x"; done

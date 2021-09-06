@@ -44,3 +44,4 @@ zmodule romkatv/zsh-prompt-benchmark
 zmodule zpm-zsh/ls
 zmodule larkery/zsh-histdb
 zmodule ajeetdsouza/zoxide
+zmodule asdf
